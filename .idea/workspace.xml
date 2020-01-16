@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6147f48-040f-4e44-b04c-6145624e186e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/springboot-redis/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-redis/subject/target/" />
+    <ignored path="$PROJECT_DIR$/strategy/target/" />
+    <ignored path="$PROJECT_DIR$/string/target/" />
+    <ignored path="$PROJECT_DIR$/enum/target/" />
+    <ignored path="$PROJECT_DIR$/io/target/" />
+    <ignored path="$PROJECT_DIR$/sms/target/" />
+    <ignored path="$PROJECT_DIR$/newFeature/target/" />
+    <ignored path="$PROJECT_DIR$/reflect/target/" />
+    <ignored path="$PROJECT_DIR$/spring/target/" />
+    <ignored path="$PROJECT_DIR$/springmvc/target/" />
+    <ignored path="$PROJECT_DIR$/mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/hibernate/target/" />
+    <ignored path="$PROJECT_DIR$/tgb_hz/target/" />
+    <ignored path="$PROJECT_DIR$/sb+shiro+jwt/target/" />
+    <ignored path="$PROJECT_DIR$/jvm/target/" />
+    <ignored path="$PROJECT_DIR$/lambda/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>putVal</find>
+      <find>remove</find>
+      <find>removeNode</find>
+      <find>get</find>
+      <find>hashtable</find>
+      <find>after</find>
+      <find>copyof</find>
+      <find>JwtUtil</find>
+      <find>512</find>
+      <find>start</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>JwtUtils</replace>
+      <replace>1024</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/string/src/main/java/com/jacob/test/TestStringBuffer.java" />
+        <option value="$PROJECT_DIR$/enum/pom.xml" />
+        <option value="$PROJECT_DIR$/enum/src/main/java/com/jacob/demo/Season.java" />
+        <option value="$PROJECT_DIR$/string/src/main/java/com/jacob/test/TestDemo.java" />
+        <option value="$PROJECT_DIR$/io/pom.xml" />
+        <option value="$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestIO.java" />
+        <option value="$PROJECT_DIR$/io/src/main/java/Person.java" />
+        <option value="$PROJECT_DIR$/io/src/main/java/com/jacob/test/Person.java" />
+        <option value="$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestSerilalized.java" />
+        <option value="$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestSerializable.java" />
+        <option value="$PROJECT_DIR$/sms/pom.xml" />
+        <option value="$PROJECT_DIR$/sms/src/main/java/com/jacob/test/TestSms.java" />
+        <option value="$PROJECT_DIR$/newFeature/pom.xml" />
+        <option value="$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestList.java" />
+        <option value="$PROJECT_DIR$/reflect/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestInteger.java" />
+        <option value="$PROJECT_DIR$/tgb_hz/src/test/java/com/hz/tgb/test/spiders/TestWebMagic.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/style/orange/shiro/JwtToken.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/style/orange/utils/JwtUtils.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/style/orange/filter/JwtFilter.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/style/orange/model/SysUser/MyRealm.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/style/orange/shiro/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/style/orange/model/SysUser/SysUser.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/style/orange/mapper/SysUserMapper.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/jwt/JwtToken.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/utils/JwtUtil.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/shiro/MyRealm.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/config/ShiroConfig.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/filter/JwtFilter.java" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/sb+shiro+jwt/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestSocket.java" />
+        <option value="$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestFastdfsDownload.java" />
+        <option value="$PROJECT_DIR$/jvm/pom.xml" />
+        <option value="$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/Demo1.java" />
+        <option value="$PROJECT_DIR$/gc.log" />
+        <option value="$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/Demo2.java" />
+        <option value="$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/Demo4.java" />
+        <option value="$PROJECT_DIR$/fullgc.log" />
+        <option value="$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/DemoFullGC.java" />
+        <option value="$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/Demo5.java" />
+        <option value="$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/Demo3.java" />
+        <option value="$PROJECT_DIR$/io/src/main/java/com/jacob/test/javaHello.java" />
+        <option value="$PROJECT_DIR$/lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/lesso/lambda/service/Person.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/lesso/lambda/service/MyLambadInterface.java" />
+        <option value="$PROJECT_DIR$/lambda/src/main/java/com/lesso/lambda/LambdaDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Apache/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Users\cheng\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="enum" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/gcfull151.log&#10;D:/Workspace/workspace-idea-notes/springboot-learning/gc.log&#10;D:/Workspace/workspace-idea-notes/springboot-learning/fullgc92.log&#10;D:/Workspace/workspace-idea-notes/springboot-learning/fullgc.log&#10;D:/Workspace/workspace-idea-notes/springboot-learning/gcold1.log&#10;D:/Workspace/workspace-idea-notes/springboot-learning/gcfull.log&#10;D:/Workspace/workspace-idea-notes/springboot-learning/gcfull15.log&#10;D:/Workspace/workspace-idea-notes/springboot-learning/gcold.log" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sb+shiro+jwt/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jacob.jvm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspace\workspace-idea-notes\springboot-learning\sb+shiro+jwt\src\main\resources" />
+      <recent name="D:\Workspace\workspace-idea-notes\springboot-learning\sb+shiro+jwt\src\main\java\com\example\shirojwt" />
+      <recent name="D:\Workspace\workspace-idea-notes\springboot-learning\sb+shiro+jwt\src\main\java\com\example\shirojwt\result" />
+      <recent name="D:\Workspace\workspace-idea-notes\springboot-learning" />
+      <recent name="D:\Workspace\workspace-idea-notes\springboot-learning\springboot-redis" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LambdaDemo">
+    <configuration name="Demo3" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jacob.jvm.Demo3" />
+      <module name="jvm" />
+      <option name="VM_PARAMETERS" value="-XX:NewSize=10485760 -XX:MaxNewSize=10485760 -XX:InitialHeapSize=20971520 -XX:MaxHeapSize=20971520 -XX:SurvivorRatio=4 -XX:MaxTenuringThreshold=15 -XX:PretenureSizeThreshold=10485760 -XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -Xloggc:gcfull15.log" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacob.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jacob.jvm.Demo4" />
+      <module name="jvm" />
+      <option name="VM_PARAMETERS" value="-XX:NewSize=10485760 -XX:MaxNewSize=10485760 -XX:InitialHeapSize=20971520 -XX:MaxHeapSize=20971520 -XX:SurvivorRatio=6 -XX:MaxTenuringThreshold=15 -XX:PretenureSizeThreshold=2M -XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -Xloggc:gcold1.log" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacob.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jacob.jvm.Demo5" />
+      <module name="jvm" />
+      <option name="VM_PARAMETERS" value="-XX:NewSize=10485760 -XX:MaxNewSize=10485760 -XX:InitialHeapSize=20971520 -XX:MaxHeapSize=20971520 -XX:SurvivorRatio=8 -XX:MaxTenuringThreshold=15 -XX:PretenureSizeThreshold=10485760 -XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -Xloggc:gcfull151.log" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacob.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFullGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jacob.jvm.DemoFullGC" />
+      <module name="jvm" />
+      <option name="VM_PARAMETERS" value="-XX:NewSize=10485760 -XX:MaxNewSize=10485760 -XX:InitialHeapSize=20971520 -XX:MaxHeapSize=20971520 -XX:SurvivorRatio=8 -XX:MaxTenuringThreshold=15 -XX:PretenureSizeThreshold=3145728 -XX:+UseParNewGC -XX:+UseConcMarkSweepGC -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -Xloggc:fullgc92.log" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacob.jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesso.lambda.LambdaDemo" />
+      <module name="lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesso.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaHello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jacob.test.javaHello" />
+      <module name="io" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jacob.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jacob.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Demo3" />
+      <item itemvalue="Application.Demo4" />
+      <item itemvalue="Application.DemoFullGC" />
+      <item itemvalue="Application.Demo5" />
+      <item itemvalue="Application.javaHello" />
+      <item itemvalue="Application.LambdaDemo" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LambdaDemo" />
+        <item itemvalue="Application.javaHello" />
+        <item itemvalue="Application.Demo5" />
+        <item itemvalue="Application.DemoFullGC" />
+        <item itemvalue="Application.Demo4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6147f48-040f-4e44-b04c-6145624e186e" name="Default Changelist" comment="" />
+      <created>1576543225754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576543225754</updated>
+      <workItem from="1576543228096" duration="2279000" />
+      <workItem from="1576552114501" duration="745000" />
+      <workItem from="1576553166415" duration="763000" />
+      <workItem from="1577233561156" duration="856000" />
+      <workItem from="1577244098205" duration="1323000" />
+      <workItem from="1577254916538" duration="955000" />
+      <workItem from="1577322010970" duration="800000" />
+      <workItem from="1577327266703" duration="637000" />
+      <workItem from="1577328340525" duration="527000" />
+      <workItem from="1577329466588" duration="76000" />
+      <workItem from="1577672656272" duration="602000" />
+      <workItem from="1577673935202" duration="1780000" />
+      <workItem from="1577691180911" duration="6808000" />
+      <workItem from="1577752884104" duration="413000" />
+      <workItem from="1577757947228" duration="715000" />
+      <workItem from="1577758679458" duration="7000" />
+      <workItem from="1577758757275" duration="1026000" />
+      <workItem from="1577763101067" duration="246000" />
+      <workItem from="1577763363896" duration="1012000" />
+      <workItem from="1577771426027" duration="662000" />
+      <workItem from="1577772365186" duration="781000" />
+      <workItem from="1577775970909" duration="1129000" />
+      <workItem from="1577781092980" duration="686000" />
+      <workItem from="1577927912895" duration="2512000" />
+      <workItem from="1577931550297" duration="2628000" />
+      <workItem from="1577944532651" duration="896000" />
+      <workItem from="1577945833270" duration="5104000" />
+      <workItem from="1577952760124" duration="1629000" />
+      <workItem from="1578032848115" duration="5278000" />
+      <workItem from="1578039681958" duration="2049000" />
+      <workItem from="1578272750893" duration="1772000" />
+      <workItem from="1578278619811" duration="11684000" />
+      <workItem from="1578359830818" duration="5112000" />
+      <workItem from="1578366945185" duration="472000" />
+      <workItem from="1578382175067" duration="923000" />
+      <workItem from="1578383291984" duration="1434000" />
+      <workItem from="1578442239074" duration="3824000" />
+      <workItem from="1578551616193" duration="1905000" />
+      <workItem from="1578555547276" duration="4431000" />
+      <workItem from="1578966453650" duration="2228000" />
+      <workItem from="1578969762337" duration="13466000" />
+      <workItem from="1579066173870" duration="191000" />
+      <workItem from="1579075054282" duration="14000" />
+      <workItem from="1579138838245" duration="2255000" />
+      <workItem from="1579141523810" duration="3048000" />
+      <workItem from="1579154294057" duration="612000" />
+    </task>
+    <task id="LOCAL-00001" summary="saa">
+      <created>1579154523553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579154523553</updated>
+    </task>
+    <task id="LOCAL-00002" summary="saa">
+      <created>1579154807739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579154807739</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestFastdfsDownload_download - 2020.01.14 at 10h 13m 06s.xml">
+      <configuration name="TestFastdfsDownload.download" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastdfsDownload_download - 2020.01.14 at 10h 16m 34s.xml">
+      <configuration name="TestFastdfsDownload.download" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastdfsDownload_download - 2020.01.14 at 10h 16m 54s.xml">
+      <configuration name="TestFastdfsDownload.download" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastdfsDownload_download - 2020.01.14 at 10h 17m 40s.xml">
+      <configuration name="TestFastdfsDownload.download" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastdfsDownload_download - 2020.01.14 at 10h 18m 07s.xml">
+      <configuration name="TestFastdfsDownload.download" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastdfsDownload_download - 2020.01.14 at 10h 18m 54s.xml">
+      <configuration name="TestFastdfsDownload.download" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastdfsDownload_download - 2020.01.14 at 10h 19m 12s.xml">
+      <configuration name="TestFastdfsDownload.download" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastdfsDownload_download - 2020.01.14 at 10h 19m 49s.xml">
+      <configuration name="TestFastdfsDownload.download" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastdfsDownload_download - 2020.01.14 at 10h 21m 03s.xml">
+      <configuration name="TestFastdfsDownload.download" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestFastdfsDownload_download - 2020.01.14 at 10h 22m 01s.xml">
+      <configuration name="TestFastdfsDownload.download" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="98295000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27598828" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328594" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24012639" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39178514" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.328594" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.31121644" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.328594" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.21303074" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Word Book" order="11" side_tool="true" />
+      <window_info anchor="right" id="JSF" order="12" />
+      <window_info anchor="right" id="CDI" order="13" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27598828" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328594" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24012639" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39178514" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.46445498" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.21303074" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Word Book" order="11" side_tool="true" />
+      <window_info anchor="right" id="JSF" order="12" />
+      <window_info anchor="right" id="CDI" order="13" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="saa" />
+    <option name="LAST_COMMIT_MESSAGE" value="saa" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-redis/src/main/java/com/jacob/controller/TestController.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-redis/src/main/java/com/jacob/test/Test.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-redis/src/main/java/com/jacob/test/Test.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/jwt/JwtToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="32" />
+          <folding>
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/config/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-447">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/util/JwtUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/serviceimpl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/ShiroJwtApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/result/ResponseData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/exception/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/exception/DefaultExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/exception/ResponseBankException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/result/ResponseDataUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-605">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/entity/LoginUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/filter/JwtFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-generator/3.1.2/mybatis-plus-generator-3.1.2.jar!/com/baomidou/mybatisplus/generator/config/StrategyConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/CodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="129" column="22" selection-start-line="129" selection-start-column="22" selection-end-line="129" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sb+shiro+jwt/src/main/java/com/example/shirojwt/shiro/MyRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="58" column="14" lean-forward="true" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io/src/main/java/com/jacob/test/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestSerializable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io/src/main/java/com/jacob/test/TestFastdfsDownload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gc.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gcfull.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="93" selection-start-line="4" selection-start-column="89" selection-end-line="4" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gcold.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gcold1.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="74" lean-forward="true" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/Demo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="32" column="47" lean-forward="true" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fullgc.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/DemoFullGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fullgc92.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="101" lean-forward="true" selection-start-line="12" selection-start-column="101" selection-end-line="12" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gcfull151.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/Demo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm/src/main/java/com/jacob/jvm/Demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gcfull15.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/io/src/main/java/com/jacob/test/javaHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/DevEnv/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="804" column="39" selection-start-line="804" selection-start-column="34" selection-end-line="804" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda/src/main/java/com/lesso/lambda/service/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda/src/main/java/com/lesso/lambda/service/MyLambadInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda/src/main/java/com/lesso/lambda/LambdaDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lambda</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>alisoft-xplatform-asf-cache</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
