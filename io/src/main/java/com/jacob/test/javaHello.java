@@ -8,7 +8,7 @@ public class javaHello {
         for (; ;) {
             System.out.println("你爱我吗:");
             String flag = in.next();
-            if (flag.equals("爱")) {
+            if (flag.equals("不爱了爱")) {
                 System.out.println("我也爱你.");
                 break;
                 } else {
