@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="alisoft-xplatform-asf-cache">
+    <CLASSES>
+      <root url="jar://E:/其他/tgb_hz/lib/nosql/alisoft-xplatform-asf-cache/alisoft-xplatform-asf-cache-2.5.1.jar!/" />
+      <root url="jar://E:/其他/tgb_hz/lib/nosql/alisoft-xplatform-asf-cache/wstx-asl-2.0.2.jar!/" />
+      <root url="jar://E:/其他/tgb_hz/lib/nosql/alisoft-xplatform-asf-cache/stax-api-1.0.1.jar!/" />
+      <root url="jar://E:/其他/tgb_hz/lib/nosql/alisoft-xplatform-asf-cache/hessian-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

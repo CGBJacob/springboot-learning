@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="alisoft-xplatform-asf-cache-2.5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tgb_hz/lib/nosql/alisoft-xplatform-asf-cache/alisoft-xplatform-asf-cache-2.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tgb_hz/lib/nosql/alisoft-xplatform-asf-cache/hessian-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tgb_hz/lib/nosql/alisoft-xplatform-asf-cache/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tgb_hz/lib/nosql/alisoft-xplatform-asf-cache/wstx-asl-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tgb_hz/lib/nosql/java_memcached-release_2.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
